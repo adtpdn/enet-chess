@@ -2,8 +2,8 @@ extends Control
 
 const PORT = 9999
 
-@export var database_file_path = "res://02.sending-and-receiving-data/FakeDatabase.json"
-@export_file("*.tscn") var next_screen_scene_path = "res://06.building-online-checkers/CheckerBoard.tscn"
+@export var database_file_path = "res://data/Database.json"
+@export_file("*.tscn") var next_screen_scene_path = "res://tscn/CheckerBoard.tscn"
 
 var peer = ENetMultiplayerPeer.new()
 var database = {}
