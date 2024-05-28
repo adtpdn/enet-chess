@@ -12,6 +12,8 @@ offset_bottom = -1.0
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_iavio")
+server_scene = "res://tscn/CheckersServer.tscn"
+client_scene = "res://tscn/CheckersLobby.tscn"
 
 [node name="Label" type="Label" parent="."]
 layout_mode = 1

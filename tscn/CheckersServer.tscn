@@ -10,7 +10,7 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_cvkre")
-next_screen_scene_path = "res://06.building-online-checkers/CheckersGame.tscn"
+next_screen_scene_path = "res://tscn/CheckersGame.tscn"
 
 [node name="Label" type="Label" parent="."]
 layout_mode = 1

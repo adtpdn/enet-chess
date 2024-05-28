@@ -249,7 +249,7 @@ func clear_free_cells():
 
 
 func add_free_cell(cell):
-	var free_cell = preload("res://06.building-online-checkers/FreeCell.tscn").instantiate()
+	var free_cell = preload("res://tscn/FreeCell.tscn").instantiate()
 	free_cells.add_child(free_cell)
 	free_cell.position = map_to_local(cell)
 	free_cell.selected.connect(_on_free_cell_selected)
