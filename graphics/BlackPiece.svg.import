@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://43ybxr7xfljj"
-path="res://.godot/imported/BlackPiece.svg-3d014ec2ec01ed5e468672a257c460cb.ctex"
+path="res://.godot/imported/BlackPiece.svg-93f8764f119207f0711014b937978f9c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://06.building-online-checkers/BlackPiece.svg"
-dest_files=["res://.godot/imported/BlackPiece.svg-3d014ec2ec01ed5e468672a257c460cb.ctex"]
+source_file="res://graphics/BlackPiece.svg"
+dest_files=["res://.godot/imported/BlackPiece.svg-93f8764f119207f0711014b937978f9c.ctex"]
 
 [params]
 
